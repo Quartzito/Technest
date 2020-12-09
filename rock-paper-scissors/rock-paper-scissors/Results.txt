@@ -1,0 +1,15 @@
+
+Player 1 picked rock, player 2 picked scissors, player 1 wins
+Player 1 picked rock, player 2 picked scissors, player 1 wins
+Player 1 picked rock, player 2 picked paper, player 2 wins
+Both players picked rock its a draw
+Player 1 picked paper, player 2 picked rock, player 1 wins
+Player 1 picked paper, player 2 picked rock, player 1 wins
+Player 1 picked rock, player 2 picked paper, player 2 wins
+Both players picked paper its a draw
+Both players picked rock its a draw
+Both players picked rock its a draw
+Game ended. Results:
+ Player1 wins: 4
+ Player2 wins: 2
+ Draws: 4
